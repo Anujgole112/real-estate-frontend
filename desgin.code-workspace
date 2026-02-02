@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Starter file - walthome"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desgin"
+	}
+}
